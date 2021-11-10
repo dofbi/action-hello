@@ -3,5 +3,5 @@ description: 'Say Hello to the world!'
 author: 'Mamadou Diagne'
 
 runs:
-  using: 'node14'
+  using: 'node12'
   main: 'index.js'
